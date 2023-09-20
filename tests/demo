@@ -12,6 +12,8 @@
 <h1>11</h1>
 <div id="root"></div>
  <script type="text/babel">
+//import React from 'react';
+//import { Button, Form, Input, Select } from 'antd';
 const { Option } = Select;
 
 const layout = {
